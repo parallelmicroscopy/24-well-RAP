@@ -1,5 +1,6 @@
 For an overview of the parallel microscopy project, start here: https://github.com/parallelmicroscopy/overview
-For software, see: 
+
+For software, see: https://github.com/parallelmicroscopy/RAP-software
 
 <b> Build instructions: </b>
 
