@@ -2,7 +2,7 @@
 
 This is a 24 well variant of the system described here: https://elifesciences.org/articles/56426.  The main differences are its inverted (parabolic reflector on the bottom).
 
-<b> Notes: </b>
+<i> Things to keep in mind: </i>
 
 1) It uses 50 mm FL objective lenses, for a magnification of 2X. 
 
@@ -14,7 +14,7 @@ This is a 24 well variant of the system described here: https://elifesciences.or
 
 <b> Construction tips: </b>
 
-The system is build around a stack of 3D printed plates that hold the lenses, camera, and 24 well plate at user defined distances from each other and a parabolic reflector. The plates attach to 4 1/2 inch optical posts. A binder clip (https://www.staples.ca/collections/binder-clips-8639)  can be used to fix the position of any plate (they hold by friction). Most adjustments are done 'by hand' so care must be taken to ensure that the following conditions are met:
+The system is build around a stack of 3D printed plates that hold the lenses, camera, and 24 well plate at user defined distances from each other and a parabolic reflector. The plates attach to 4 1/2 inch optical posts. A binder clip (https://www.staples.ca/collections/binder-clips-8639)  can be used to fix the position of any plate (they hold by friction). Most adjustments are done 'by hand' so <b>care must be taken to ensure that the following conditions are met</b>:
 
 i) The 50 mm FL objective lenses are 50mm beneath the 24 well plate.
 
