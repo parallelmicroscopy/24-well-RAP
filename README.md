@@ -12,6 +12,8 @@ This is a 24 well variant of the system described here: https://elifesciences.or
 
 4) Image collection and LED control is through a PC or Mac computer (desktop or laptop).
 
+5) For the software, see : https://github.com/parallelmicroscopy/RAP-software 
+
 <b> Construction tips: </b>
 
 The system is build around a stack of 3D printed plates that hold the lenses, camera, and 24 well plate at user defined distances from each other and a parabolic reflector. The plates attach to 4 1/2 inch optical posts. A binder clip (https://www.staples.ca/collections/binder-clips-8639)  can be used to fix the position of any plate (they hold by friction). Most adjustments are done 'by hand' so <b>care must be taken to ensure that the following conditions are met</b>:
