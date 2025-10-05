@@ -1,3 +1,6 @@
+For an overview of the parallel microscopy project, start here: https://github.com/parallelmicroscopy/overview
+For software, see: 
+
 <b> Build instructions: </b>
 
 This is a 24 well variant of the system described here: https://elifesciences.org/articles/56426.  The main differences are its inverted (parabolic reflector on the bottom).
