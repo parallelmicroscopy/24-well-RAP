@@ -69,7 +69,9 @@ Optional: In addition, illumination uniformity can be improved by using plastic 
 <b> LED array: </b>
 
 The array consists of 24 Dotstar LEDs (LEDs: https://www.adafruit.com/product/2343) positioned on a grid with 18mm pitch.
-The LED array was custom built and assembled by PCBway.  <u>Gerber files are available on request</u>.
+The LED array was custom built and assembled by PCBway (at a cost of about 35$ per array with 5 array minumum order).  <i>Gerber files are available on request</i>.
+
+Alternatively, a commercially available LED array can be used e.g. https://www.adafruit.com/product/1430. But be aware that there are a few disadvantages. i) First, the LED spacing doesn't exactly match (there will be a slight shift noticable near the edge of the multiwell plate); ii) The commercial array also uses slower pixels with different wiring and timing requirements (Neopixels); iii) The Arduino control software would need to be altered to account for the diffent pixel number (every second pixel would be used) and pixel architecture. The software uses the FastLED.h (https://github.com/FastLED/FastLED) library so the changes would be relatively simple. Its worthwhile noting that the original publication used Neopixel array (https://elifesciences.org/articles/56426), and it was effective.
 
 
 <b> LED array control: </b>
