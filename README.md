@@ -56,11 +56,13 @@ The camera is a 7.3 × 5.6 mm square CMOS sensor mounted in a <b>CS</b> housing 
 
 <b> Optics:</b>
 
-Parabolic reflector: 1 x https://www.edmundoptics.ca/p/220mm-dia-x-100mm-fl-alum-coated-parabolic-reflector/23405/
+Parabolic reflector: <b>1</b> x https://www.edmundoptics.ca/p/220mm-dia-x-100mm-fl-alum-coated-parabolic-reflector/23405/
 
-50 mm FL 12.5 mm diameter plano-convex lenses: 24 x  https://www.edmundoptics.ca/p/37796/38881/
+50 mm FL 12.5 mm diameter plano-convex lenses: <b>24</b> x  https://www.edmundoptics.ca/p/37796/38881/
 
-In addition, illumination uniformity can be greatly improved by using plastic collimating lenses between the LED array at the sample.: e.g. https://www.aliexpress.com/i/32545080396.html (- the lenses can be removed from their holders and placed in 3D printed part 'f' above).
+flat 50x125 mirrors: <b>2</b> x https://www.edmundoptics.ca/p/50-x-125mm-4-6lambda-mirror/2310/
+
+Optional: In addition, illumination uniformity can be improved by using plastic collimating lenses between the LED array at the sample.: e.g. https://www.aliexpress.com/i/32545080396.html (- the lenses can be removed from their holders and placed in 3D printed part 'f' above).
 
 <b> LED array: </b>
 
