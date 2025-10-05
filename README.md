@@ -1,10 +1,18 @@
-<b> Build notes </b>
+<b> Build instructions: </b>
 
-This is a variant of the system described here: https://elifesciences.org/articles/56426.  The main differences are its inverted (parabolic reflector on the bottom) and its 24 (not 96) wells. 
+This is a 24 well variant of the system described here: https://elifesciences.org/articles/56426.  The main differences are its inverted (parabolic reflector on the bottom).
+
+<b> Notes: </b>
 
 1) It uses 50 mm FL objective lenses, for a magnification of 2X. 
 
-2) It uses a combination of 3D printed parts and purchased optomechanics (1/2 inch steel posts + post holders)
+2) It uses a combination of 3D printed parts and purchased optomechanics (1/2 inch steel posts + post holders).
+
+3) It is a 24 well imaging system (not a 96 well imaging system as described in the original publication). <i> The current design assumes the spacing of the wells is 18mm - please ensure that your 24 well plates have this exact spacing.</i>
+
+4) Image collection and LED control is through a PC or Mac computer (desktop or laptop).
+
+<b> Construction tips: </b>
 
 The system is build around a stack of 3D printed plates that hold the lenses, camera, and 24 well plate at user defined distances from each other and a parabolic reflector. The plates attach to 4 1/2 inch optical posts. A binder clip (https://www.staples.ca/collections/binder-clips-8639)  can be used to fix the position of any plate (they hold by friction). Most adjustments are done 'by hand' so care must be taken to ensure that the following conditions are met:
 
@@ -17,6 +25,11 @@ iii) The camera is positioned directly above the center of the parabolic reflect
 The lenses and camera share a housing, so focus is achieved by moving the sample holder as the camera position is set by the focal length of the parabolic reflector. The current design includes a flexure stage and 50ml syringe which can be used to adjust the height of the sample holder (attach a second syringe to the first one to adjust the height of the sample), but this is not necessary: the sample holder can be replaced by a single plate holder (part 'a') in the diagram, and the height adjusted by hand. You can use a leveling tool (e.g. https://www.thorlabs.com/thorproduct.cfm?partnumber=LVL03) to ensure the vertical plates are parallel to each other.
 
 <img width="1496" height="348" alt="image" src="https://github.com/user-attachments/assets/762a79ff-53e7-40bb-b597-1341abf5784e" />
+<br>
+<b> 3D printed parts: </b>
+
+
+The following pieces should be printed from PLA using a conventional 3D printer (e.g. Bambu X1 Carbon, or Prusa MK3).
 
 a) plate holder (with baffle to reduce stray light - a second lens holder without lenses)
 
@@ -64,9 +77,9 @@ https://store-usa.arduino.cc/products/arduino-uno-rev3?srsltid=AfmBOopXxBkr__GUe
 <i>Please note that if you purchase an Arduino compatible microcontroller instead of the official one above, you may have to edit the software to ensure that its recognized.</i>
 
 
-<b> Commercial Optomechanics: </b>
+<b> Commercial optomechanics: </b>
 
-In addition to the 3D printed parts, you will need <b>1/2 inch optical posts, post holders and hardware</b>:
+In addition to the 3D printed parts, you will need <b>1/2 inch optical posts, post holders and hardware.</b>:
 
 2 x Ø12.7 mm Optical Post, L = 300 mm: https://www.thorlabs.com/thorproduct.cfm?partnumber=TR300/M
 
