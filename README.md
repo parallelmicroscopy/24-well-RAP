@@ -116,4 +116,6 @@ Allied Vision recommends the following cables for their camera:
 
 Less expensive versions of the above cables also work in our experience.
 
+**Finally** ... keep in mind that the hardware and software for this project are actively being worked on. Please contact [gil.bub@mcgill.ca](mailto:gil.bub@mcgill.ca) prior to starting your build for last-minute construction tips.
+
  
