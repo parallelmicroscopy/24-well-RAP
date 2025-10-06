@@ -89,7 +89,7 @@ https://store-usa.arduino.cc/products/arduino-uno-rev3?srsltid=AfmBOopXxBkr__GUe
 
 <b> Commercial optomechanics: </b>
 
-In addition to the 3D printed parts, you will need <b>1/2 inch optical posts, post holders and hardware.</b>:
+In addition to the 3D printed parts, you will need <b>1/2 inch optical posts, post holders and hardware</b>:
 
 2 x Ø12.7 mm Optical Post, L = 300 mm: https://www.thorlabs.com/thorproduct.cfm?partnumber=TR300/M
 
@@ -106,12 +106,14 @@ and M6 screws (e.g.): https://www.thorlabs.com/thorproduct.cfm?partnumber=SH6MS2
 
 <b> Cables: </b>
 
-Allied Vision recommends the following cables for their camera. (Less expensive versions also work in our experience.)
+Allied Vision recommends the following cables for their camera:
 
 1) A USB 3 cable connects the camera to the PC: https://www.digikey.ca/en/products/detail/allied-vision-inc/12327/12083506
   
 2) A trigger cable connects the Arduino to the camera: https://www.digikey.ca/en/products/detail/allied-vision-inc/12322/11200629
 
    <i>Pin 2</i> from the trigger cable should be connected to <i>Arduino pin 10</i>,  and <i>pin 6</i> from the trigger cable should be connected to <i>Arduino ground.</i>
+
+Less expensive versions of the above cables also work in our experience.
 
  
