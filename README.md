@@ -17,11 +17,9 @@ This is a 24 well variant of the system described here: https://elifesciences.or
 
 The system is build around a stack of 3D printed plates that hold the lenses, camera, and 24 well plate at user defined distances from each other and a parabolic reflector. The plates attach to 4 1/2 inch optical posts. A binder clip (https://www.staples.ca/collections/binder-clips-8639)  can be used to fix the position of any plate (they hold by friction). Most adjustments are done 'by hand' so <b>care must be taken to ensure that the following conditions are met</b>:
 
-i) The 50 mm FL objective lenses are 50mm beneath the 24 well plate.
-
-ii) The camera sensor is 100 mm above the parabolic reflector.
-
-iii) The camera is positioned directly above the center of the parabolic reflector.
+- The 50 mm FL objective lenses are 50mm beneath the 24 well plate.
+- The camera sensor is 100 mm above the parabolic reflector.
+- The camera is positioned directly above the center of the parabolic reflector.
 
 The lenses and camera share a housing, so focus is achieved by moving the sample holder as the camera position is set by the focal length of the parabolic reflector. The current design includes an optional flexure stage and 50ml syringe which can be used to adjust the height of the sample holder (attach a second syringe to the first one to adjust the height of the sample), but this is not necessary. For a simpler, more stable, configuration: replace part 'g' by part 'a', which is sized to hold standard multiwell plates. You can use a leveling tool (e.g. https://www.thorlabs.com/thorproduct.cfm?partnumber=LVL03) to ensure the vertical plates are parallel to each other.
 
@@ -53,7 +51,7 @@ The camera used in the current configuration is an Allied Vision Alvium 1800 U-0
 
 https://www.edmundoptics.ca/p/allied-vision-alvium-1800-u-052m-117-05mp-c-mount-usb-31-monochrome-camera/48246/
 
-The camera is a 7.3 × 5.6 mm square CMOS sensor mounted in a <b>CS</b> housing (CS-mount   flange focal distance (FFD) = 12.526 mm, and the outer diameter of the cylindrical lens mount is 1 inch ). A camera with a <b>CS-mount</b> housing is needed for this system as a conventional 'C' mount blocks light at oblique angles. Alternatively you can remove the camera housing altogether, but if you do so add a small cooling fan to disipate heat from the camera. 
+The camera is a 7.3 × 5.6 mm square CMOS sensor mounted in a <b>CS</b> housing (CS-mount   flange focal distance (FFD) = 12.526 mm, and the outer diameter of the cylindrical lens mount is 1 inch ). A camera with a <b>CS-mount</b> housing is needed for this system as a conventional 'C' mount blocks light at oblique angles. Alternatively you can remove the camera housing altogether, but if you do so add a small cooling fan near the camera (https://www.digikey.ca/en/products/detail/adafruit-industries-llc/4468/11587354) to disipate heat. 
 
 <b> Optics:</b>
 
@@ -96,7 +94,7 @@ In addition to the 3D printed parts, you will need <b>1/2 inch optical posts, po
 
 1x 150 mm x 300 mm Aluminum Breadboard: https://www.thorlabs.com/thorproduct.cfm?partnumber=MB1530/M
 
-and M6 screws (e.g.): https://www.thorlabs.com/thorproduct.cfm?partnumber=SH6MS20
+and M6 screws, e.g.: https://www.thorlabs.com/thorproduct.cfm?partnumber=SH6MS20
 
 
 <b> Cables: </b>
